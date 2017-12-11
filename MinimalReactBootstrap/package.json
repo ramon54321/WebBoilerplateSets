@@ -1,0 +1,33 @@
+{
+  "name": "scratch",
+  "version": "1.0.0",
+  "description": "Testing platform",
+  "main": "index.js",
+  "scripts": {
+    "build-dev": "gulp",
+    "build-pro": "gulp production"
+  },
+  "keywords": [
+    "test",
+    "react",
+    "components"
+  ],
+  "author": "Ramon Brand",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "bootstrap": "^4.0.0-beta.2",
+    "gulp-cli": "^1.4.0",
+    "gulp-run-command": "0.0.9",
+    "html-webpack-plugin": "^2.30.1",
+    "node-sass": "^4.7.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "uglifyjs-webpack-plugin": "^1.1.2",
+    "webpack": "^3.10.0",
+    "webpack-glob-entries": "^1.0.1"
+  }
+}
