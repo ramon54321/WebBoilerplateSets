@@ -1,16 +1,16 @@
 {
-  "name": "scratch",
+  "name": "minimal_react_bootstrap",
   "version": "1.0.0",
-  "description": "Testing platform",
+  "description": "Boilerplate code for react and bootstrap frontend.",
   "main": "index.js",
   "scripts": {
-    "build-dev": "gulp",
-    "build-pro": "gulp production"
+    "build-development": "gulp build-development",
+    "build-production": "gulp build-production"
   },
   "keywords": [
-    "test",
+    "bootstrap",
     "react",
-    "components"
+    "boilerplate"
   ],
   "author": "Ramon Brand",
   "license": "ISC",
